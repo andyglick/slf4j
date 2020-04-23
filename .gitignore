@@ -5,7 +5,9 @@ target
 *~
 *.tmproj
 *.iml
-.idea
+*.ipr
+*.iws
+.idea/
 .scala_dependencies
 integration/bundle/
 integration/felix-cache/
